@@ -17,7 +17,8 @@ const users = [
     { username: "mohammadtho", password: "YXKVEec3XQA9FL95HC5i", fullName: "Mohammad Thomas", role: "Accounting"},
     { username: "ameliakim", password: "e(Ky3Q?=A5[3Imu{", fullName: "Amelia Kim", role: "Logistics"},
     { username: "benjaminmar", password: "ay6e3UG8KTMecuOaLjqz", fullName: "Benjamin Martinez", role: "Teller Manager"},
-    { username: "maxver", password: "4timeworldchampion", fullName: "Max Verstappen", role: "F1 Driver"}
+    { username: "maxver", password: "4timeworldchampion", fullName: "Max Verstappen", role: "F1 Driver"},
+    { username: "mrslang", password: "password", fullName: "Mrs.Lang", role: "Teacher"}
 ];
 
 // Check if user is logged in on page load
